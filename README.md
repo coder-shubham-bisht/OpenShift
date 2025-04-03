@@ -1,4 +1,4 @@
-# OpenShift: A Complete Guide
+# OpenShift: Simple Guide
 
 ## 1. OpenShift Overview
 
